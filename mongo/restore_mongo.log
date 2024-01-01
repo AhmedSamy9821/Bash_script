@@ -1,0 +1,39 @@
+
+
+##########################
+Thu 28 Dec 2023 03:06:42 PM EET
+##########################
+
+2023-12-28T13:06:43.365+0000	preparing collections to restore from
+2023-12-28T13:06:43.444+0000	reading metadata for devops.delete_me from archive 'mongo_backup.gz'
+2023-12-28T13:06:43.468+0000	restoring devops.delete_me from archive 'mongo_backup.gz'
+2023-12-28T13:06:43.472+0000	no indexes to restore
+2023-12-28T13:06:43.472+0000	finished restoring devops.delete_me (0 documents, 0 failures)
+2023-12-28T13:06:43.490+0000	restoring to existing collection support.delete_me without dropping
+2023-12-28T13:06:43.490+0000	reading metadata for support.delete_me from archive 'mongo_backup.gz'
+2023-12-28T13:06:43.490+0000	restoring support.delete_me from archive 'mongo_backup.gz'
+2023-12-28T13:06:43.492+0000	no indexes to restore
+2023-12-28T13:06:43.492+0000	finished restoring support.delete_me (0 documents, 0 failures)
+2023-12-28T13:06:43.492+0000	0 document(s) restored successfully. 0 document(s) failed to restore.
+
+
+##########################
+Mon 01 Jan 2024 04:09:24 PM EET
+##########################
+
+2024-01-01T14:09:25.072+0000	preparing collections to restore from
+2024-01-01T14:09:25.173+0000	reading metadata for mostafa.delete_me from archive 'mongo_backup.gz'
+2024-01-01T14:09:25.196+0000	restoring mostafa.delete_me from archive 'mongo_backup.gz'
+2024-01-01T14:09:25.199+0000	no indexes to restore
+2024-01-01T14:09:25.200+0000	finished restoring mostafa.delete_me (0 documents, 0 failures)
+2024-01-01T14:09:25.214+0000	restoring to existing collection support.delete_me without dropping
+2024-01-01T14:09:25.214+0000	reading metadata for support.delete_me from archive 'mongo_backup.gz'
+2024-01-01T14:09:25.214+0000	restoring support.delete_me from archive 'mongo_backup.gz'
+2024-01-01T14:09:25.217+0000	no indexes to restore
+2024-01-01T14:09:25.217+0000	finished restoring support.delete_me (0 documents, 0 failures)
+2024-01-01T14:09:25.233+0000	restoring to existing collection devops.delete_me without dropping
+2024-01-01T14:09:25.233+0000	reading metadata for devops.delete_me from archive 'mongo_backup.gz'
+2024-01-01T14:09:25.235+0000	restoring devops.delete_me from archive 'mongo_backup.gz'
+2024-01-01T14:09:25.245+0000	no indexes to restore
+2024-01-01T14:09:25.255+0000	finished restoring devops.delete_me (0 documents, 0 failures)
+2024-01-01T14:09:25.255+0000	0 document(s) restored successfully. 0 document(s) failed to restore.

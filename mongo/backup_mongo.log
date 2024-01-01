@@ -1,0 +1,32 @@
+
+
+##########################
+Thu 28 Dec 2023 03:01:26 PM EET
+##########################
+
+2023-12-28T13:01:27.125+0000	writing admin.system.version to archive 'mongo_backup.gz'
+2023-12-28T13:01:27.151+0000	done dumping admin.system.version (1 document)
+2023-12-28T13:01:27.155+0000	writing devops.delete_me to archive 'mongo_backup.gz'
+2023-12-28T13:01:27.166+0000	done dumping devops.delete_me (0 documents)
+2023-12-28T13:01:27.169+0000	writing support.delete_me to archive 'mongo_backup.gz'
+2023-12-28T13:01:27.222+0000	done dumping support.delete_me (0 documents)
+
+
+##########################
+Thu 28 Dec 2023 03:04:39 PM EET
+##########################
+
+
+
+##########################
+Mon 01 Jan 2024 04:08:52 PM EET
+##########################
+
+2024-01-01T14:08:53.482+0000	writing admin.system.version to archive 'mongo_backup.gz'
+2024-01-01T14:08:53.516+0000	done dumping admin.system.version (1 document)
+2024-01-01T14:08:53.524+0000	writing mostafa.delete_me to archive 'mongo_backup.gz'
+2024-01-01T14:08:53.528+0000	writing devops.delete_me to archive 'mongo_backup.gz'
+2024-01-01T14:08:53.542+0000	writing support.delete_me to archive 'mongo_backup.gz'
+2024-01-01T14:08:53.766+0000	done dumping mostafa.delete_me (0 documents)
+2024-01-01T14:08:53.769+0000	done dumping support.delete_me (0 documents)
+2024-01-01T14:08:53.769+0000	done dumping devops.delete_me (0 documents)
