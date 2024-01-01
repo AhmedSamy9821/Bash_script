@@ -15,8 +15,8 @@ if [[ $authentication_check == "true" ]];then
 username="admin"
 password="admin"
 auth_database="admin"
-docker exec mongo mongrestore  --username $username --password $password --authenticationDatabase $auth_database --archive=mongo_backup.gz  --gzip 1>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log 2>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log
+docker exec mongo mongrestore  --username $username --password $password --authenticationDatabase $auth_database --archive=${backup_path##*/}  --gzip 1>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log 2>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log
 else
-docker exec mongo mongorestore --archive=mongo_backup.gz  --gzip 1>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log 2>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log
+docker exec mongo mongorestore --archive=${backup_path##*/}  --gzip 1>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log 2>>/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mongo/restore_mongo.log
 fi
 
