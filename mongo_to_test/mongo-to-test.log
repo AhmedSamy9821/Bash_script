@@ -1,0 +1,98 @@
+
+
+##########################
+Mon 01 Jan 2024 06:42:07 PM EET
+##########################
+
+
+
+##########################
+dump from mongo-test instance 
+##########################
+
+2024-01-01T16:42:07.260+0000	writing admin.system.version to archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.266+0000	done dumping admin.system.version (1 document)
+2024-01-01T16:42:07.267+0000	writing support_team.delete_me to archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.269+0000	done dumping support_team.delete_me (0 documents)
+2024-01-01T16:42:07.270+0000	writing mongo_test.delete_me to archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.310+0000	done dumping mongo_test.delete_me (0 documents)
+
+
+##########################
+restore databases to db-test instance logs
+##########################
+
+2024-01-01T16:42:07.508+0000	preparing collections to restore from
+2024-01-01T16:42:07.535+0000	reading metadata for support_team.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.546+0000	restoring support_team.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.548+0000	no indexes to restore
+2024-01-01T16:42:07.554+0000	finished restoring support_team.delete_me (0 documents, 0 failures)
+2024-01-01T16:42:07.559+0000	reading metadata for mongo_test.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.571+0000	restoring mongo_test.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:42:07.572+0000	no indexes to restore
+2024-01-01T16:42:07.572+0000	finished restoring mongo_test.delete_me (0 documents, 0 failures)
+2024-01-01T16:42:07.572+0000	0 document(s) restored successfully. 0 document(s) failed to restore.
+
+
+##########################
+Mon 01 Jan 2024 06:42:41 PM EET
+##########################
+
+
+
+##########################
+dump from mongo-test instance 
+##########################
+
+2024-01-01T16:42:41.403+0000	writing admin.system.version to archive 'mongo_test_backup.gz'
+2024-01-01T16:42:41.406+0000	done dumping admin.system.version (1 document)
+2024-01-01T16:42:41.406+0000	writing support_team.delete_me to archive 'mongo_test_backup.gz'
+2024-01-01T16:42:41.408+0000	done dumping support_team.delete_me (0 documents)
+
+
+##########################
+restore databases to db-test instance logs
+##########################
+
+2024-01-01T16:42:41.585+0000	preparing collections to restore from
+2024-01-01T16:42:41.602+0000	restoring to existing collection support_team.delete_me without dropping
+2024-01-01T16:42:41.602+0000	reading metadata for support_team.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:42:41.602+0000	restoring support_team.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:42:41.607+0000	no indexes to restore
+2024-01-01T16:42:41.608+0000	finished restoring support_team.delete_me (0 documents, 0 failures)
+2024-01-01T16:42:41.608+0000	0 document(s) restored successfully. 0 document(s) failed to restore.
+
+
+##########################
+Mon 01 Jan 2024 06:43:06 PM EET
+##########################
+
+
+
+##########################
+dump from mongo-test instance 
+##########################
+
+2024-01-01T16:43:06.967+0000	writing admin.system.version to archive 'mongo_test_backup.gz'
+2024-01-01T16:43:06.976+0000	done dumping admin.system.version (1 document)
+2024-01-01T16:43:06.977+0000	writing ahmed.delete_me to archive 'mongo_test_backup.gz'
+2024-01-01T16:43:06.990+0000	writing support_team.delete_me to archive 'mongo_test_backup.gz'
+2024-01-01T16:43:07.038+0000	done dumping support_team.delete_me (0 documents)
+2024-01-01T16:43:07.039+0000	done dumping ahmed.delete_me (0 documents)
+
+
+##########################
+restore databases to db-test instance logs
+##########################
+
+2024-01-01T16:43:07.206+0000	preparing collections to restore from
+2024-01-01T16:43:07.224+0000	restoring to existing collection support_team.delete_me without dropping
+2024-01-01T16:43:07.224+0000	reading metadata for support_team.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:43:07.224+0000	restoring support_team.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:43:07.227+0000	no indexes to restore
+2024-01-01T16:43:07.227+0000	finished restoring support_team.delete_me (0 documents, 0 failures)
+2024-01-01T16:43:07.230+0000	reading metadata for ahmed.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:43:07.237+0000	restoring ahmed.delete_me from archive 'mongo_test_backup.gz'
+2024-01-01T16:43:07.237+0000	no indexes to restore
+2024-01-01T16:43:07.237+0000	finished restoring ahmed.delete_me (0 documents, 0 failures)
+2024-01-01T16:43:07.237+0000	0 document(s) restored successfully. 0 document(s) failed to restore.
