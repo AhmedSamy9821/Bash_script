@@ -1,0 +1,143 @@
+
+
+##########################
+Thu 28 Dec 2023 04:38:44 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+ahmed dumped successfully
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+devops dumped successfully
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+support dumped successfully
+
+
+##########################
+Thu 28 Dec 2023 04:44:57 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+ahmed database is dumped successfully
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+devops database is dumped successfully
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+support database is dumped successfully
+
+
+##########################
+Thu 28 Dec 2023 05:15:38 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got error: 1049: Unknown database 'ahmed' when selecting the database
+ahmed database is dumped successfully
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got error: 1049: Unknown database 'devops' when selecting the database
+devops database is dumped successfully
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: Got error: 1049: Unknown database 'support' when selecting the database
+support database is dumped successfully
+
+
+##########################
+Tue 02 Jan 2024 06:08:21 PM EET
+##########################
+
+
+
+##########################
+Tue 02 Jan 2024 06:10:30 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'dev.sql': No such file or directory
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+gzip: support.sql.gz already exists;	not overwritten
+
+
+##########################
+Tue 02 Jan 2024 06:12:11 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'dev.sql': No such file or directory
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 06:15:48 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'dev.sql': No such file or directory
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 06:17:20 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'dev.sql': No such file or directory
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 06:17:55 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'dev.sql': No such file or directory
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove 'support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 06:41:12 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:26:46 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:27:01 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:28:42 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:30:58 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 08:28:00 PM EET
+##########################
+
+mysqldump: [Warning] Using a password on the command line interface can be insecure.
+mysqldump: [Warning] Using a password on the command line interface can be insecure.

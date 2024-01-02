@@ -1,0 +1,166 @@
+
+
+##########################
+Thu 28 Dec 2023 05:11:25 PM EET
+##########################
+
+ahmed database is restored successfully
+devops database is restored successfully
+support database is restored successfully
+
+
+##########################
+Thu 28 Dec 2023 05:15:14 PM EET
+##########################
+
+
+
+##########################
+Thu 28 Dec 2023 05:15:53 PM EET
+##########################
+
+
+
+##########################
+Tue 02 Jan 2024 06:39:26 PM EET
+##########################
+
+gzip: ahmed.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/ahmed.sql': No such file or directory
+gzip: devops.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/devops.sql': No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 06:40:45 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+gzip: support.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 06:41:31 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'dev'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:26:37 PM EET
+##########################
+
+gzip: dev.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'dev'; database exists
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/dev.sql': No such file or directory
+gzip: support.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 07:26:54 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'dev'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:27:31 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:28:29 PM EET
+##########################
+
+gzip: dev.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'dev'; database exists
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/dev.sql': No such file or directory
+gzip: support.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+rm: cannot remove '/home/ahmed98/devops_training/Bash/Git_hub/Bash_script/mysql/backup_directory/support.sql': No such file or directory
+
+
+##########################
+Tue 02 Jan 2024 07:29:08 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:32:24 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'dev'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:32:55 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 07:48:59 PM EET
+##########################
+
+gzip: dev.sql.gz: No such file or directory
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1049 (42000): Unknown database 'dev'
+mysql: [Warning] Using a password on the command line interface can be insecure.
+
+
+##########################
+Tue 02 Jan 2024 08:28:15 PM EET
+##########################
+
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+mysql: [Warning] Using a password on the command line interface can be insecure.
+ERROR 1007 (HY000) at line 1: Can't create database 'support'; database exists
+mysql: [Warning] Using a password on the command line interface can be insecure.
