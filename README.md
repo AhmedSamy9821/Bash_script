@@ -1,1 +1,1 @@
-# This repo is for bash script 
+# This repo is for bash scripts
